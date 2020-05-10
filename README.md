@@ -1,5 +1,5 @@
 # Batch-Keylogger-3.0
-In this program, you can simply write a **few lines of commands** in a simple text file and make a **keylogger in notepad** yourself! We’ve launched **version 3.0 of the keylogger**, it is more advanced than the previous version.This **cmd keylogger** is using external plugins and this version is able to log almost all keys of your Keyboard including Special Keys as to remove the limitation of the previous two versions of this **Keylogger** and to Remove limitation of **version 1.0**.
+In this program, you can simply write a **few lines of commands** in a simple text file and make a **keylogger in notepad** yourself! This **cmd keylogger** is using external plugins and this version is able to log almost all keys of your Keyboard including Special Keys as to remove the limitation of the previous two versions of this **Keylogger** and to Remove limitation of **version 1.0**.
 
  ![](https://i0.wp.com/www.thebateam.org/wp-content/uploads/2019/04/21-1-e1554628582559.png?fit=402%2C120&ssl=1)
  
